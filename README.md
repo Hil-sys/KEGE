@@ -1,2 +1,2 @@
-# KEGE
-preparing to EGE 2024
+# Theory
+Тут будет вся нужная теория
